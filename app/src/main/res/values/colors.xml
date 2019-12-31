@@ -3,4 +3,12 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <!--
+    <color name="wall">#F1F3D8</color>
+    <color name="ice">#91BABD</color>
+    <color name="cant_learn">#5C8FA3</color>
+    <color name="trying">#574869</color>
+    <color name="cursed">#121162</color>
+    -->
 </resources>

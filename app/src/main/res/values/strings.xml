@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Cronograma</string>
+    <string name="menu_cronograma">Cronograma</string>
+    <string name="menu_disciplinas">Disciplinas</string>
+    <string name="menu_ajuda">Ajuda</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_title">Cronograma de Estudos</string>
+    <string name="nav_header_subtitle">Organização e foco</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
