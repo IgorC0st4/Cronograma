@@ -9,4 +9,8 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nome_disciplina">Nome da disciplina</string>
+    <string name="nova_disciplina">Nova disciplina</string>
+    <string name="lbl_btn_salvar">Salvar</string>
+    <string name="lbl_btn_cancelar">Cancelar</string>
 </resources>
